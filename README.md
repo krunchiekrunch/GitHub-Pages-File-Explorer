@@ -1,8 +1,10 @@
-# GitHub-File-Explorer
-
 ## Get Started
 
+Upload `index.html`, `script.js`, and `styles.css` to your repository
+
 Go `app.js` and edit the variables on line 2, 3, and 6.
+
+Enable GitHub page on your repository
 
 If you need this for a private repository, follow the steps below, if not, you can leave line 6 blank, and delete line 11, 12, and 13
 
