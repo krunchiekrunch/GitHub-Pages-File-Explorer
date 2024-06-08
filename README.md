@@ -8,6 +8,8 @@ Enable GitHub page on your repository
 
 If you need this for a private repository, follow the steps below, if not, you can leave line 6 blank, and delete line 11, 12, and 13
 
+Demo: https://radioactivepotato.github.io/GitHub-Pages-File-Explorer/demo
+
 ## Generate a Personal Access Token (To access private repositories)
 
 To get the personal access token, follow these steps
