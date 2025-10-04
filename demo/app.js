@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const repoOwner = "RadioactivePotato";
+    const repoOwner = "krunchiekrunch";
     const repoName = "GitHub-Pages-File-Explorer";
     const baseUrl = `https://${repoOwner}.github.io/${repoName}`;
     const fileTree = document.getElementById("file-tree");
